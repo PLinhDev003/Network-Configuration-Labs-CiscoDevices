@@ -1,6 +1,6 @@
 # Network-Configuration-Labs-CiscoDevices
 
-This repository contains practice labs for configuring Cisco network devices using Packet Tracer. These labs are designed for students learning network configuration and management. The exercises cover fundamental networking concepts, VLANs, routing protocols, NAT, ACLs, and more.
+This repository contains practice labs for configuring Cisco network devices using Packet Tracer. The exercises cover fundamental networking concepts, VLANs, routing protocols, NAT, ACLs, and more.
 
 ## Lab List
 
